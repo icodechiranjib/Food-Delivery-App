@@ -1,4 +1,4 @@
-# FoodZest
+# FoodDelivery
 
 Food Ordering app for Internshala Android Development Training
 
